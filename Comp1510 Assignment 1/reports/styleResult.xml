@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="5.0">
+<file name="C:\Users\Julia\Documents\BCIT\COMP 1510\Assignments\Assignment 1\Comp1510 Assignment 1\src\q1\Stickman.java">
+<error line="4" severity="warning" message="First sentence should end with a period." source="com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocStyleCheck"/>
+</file>
+<file name="C:\Users\Julia\Documents\BCIT\COMP 1510\Assignments\Assignment 1\Comp1510 Assignment 1\src\q2\SecondsConvert.java">
+</file>
+<file name="C:\Users\Julia\Documents\BCIT\COMP 1510\Assignments\Assignment 1\Comp1510 Assignment 1\src\q3\TempConvert.java">
+<error line="19" column="22" severity="warning" message="Name &apos;CONVERSION&apos; must match pattern &apos;^[a-z][a-zA-Z0-9]*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.LocalFinalVariableNameCheck"/>
+</file>
+<file name="C:\Users\Julia\Documents\BCIT\COMP 1510\Assignments\Assignment 1\Comp1510 Assignment 1\src\q4\Cylinder.java">
+</file>
+<file name="C:\Users\Julia\Documents\BCIT\COMP 1510\Assignments\Assignment 1\Comp1510 Assignment 1\src\q5\BusinessCard.java">
+</file>
+</checkstyle>
